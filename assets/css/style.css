@@ -1,0 +1,85 @@
+body{
+    background-color: #0802A3;
+}
+.nav-wrapper{
+    background-color: #FF4B91 ;
+    position: sticky !important;
+}
+.nav-wrapper ul a{
+    font-size: 15pt;
+}
+#header{
+    margin: none;
+    display: table;
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0bedb362-1325-47fe-8fb8-8a1224de0221/dduzs4t-4c5444d9-d67c-4e93-8e50-43dc481c6022.png/v1/fit/w_828,h_276,q_70,strp/retro_twitter_header_by_sailortrekkie92_dduzs4t-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDI3IiwicGF0aCI6IlwvZlwvMGJlZGIzNjItMTMyNS00N2ZlLThmYjgtOGExMjI0ZGUwMjIxXC9kZHV6czR0LTRjNTQ0NGQ5LWQ2N2MtNGU5My04ZTUwLTQzZGM0ODFjNjAyMi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.CnUhmPnda0V19xKttlSLVs2BeQd8a0QQioaLNOfX-mQ");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 500px;
+    color:rgb(255, 205, 75);
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    font-size: 10em;
+      
+    
+}
+    
+.cartas{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2.5%;
+    margin-bottom: 1%;
+    border-radius: 6px;
+}
+.card{
+    margin-left: 1% !important;
+    margin-right:1% !important;
+    margin-top: 1% !important;
+    margin-bottom: 1% !important;
+    box-sizing: 10px !important;
+    flex-grow: 1 !important;
+    flex-basis: 200 !important;
+    width: 250px !important;
+    height: 400px !important;
+  }
+h1{
+    color: #FFCD4B;
+    font-size: 5em;
+    font-family: 'Yesteryear', cursive;
+}
+h3{
+    color: #FFCD4B;
+    font-size: 5em;
+    font-family: 'Yesteryear', cursive;
+    margin-left: 4%;
+    margin-right: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+span{
+    color: rgb(255, 118, 118)!important;
+    margin-left: 1% !important;
+    margin-right: 1% !important;
+    margin-top: 1% !important;
+    margin-bottom: 1% !important;
+    font-family: 'Anton', sans-serif !important;
+    justify-content: center !important;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    color: #202021;
+    background: #FF4B91 ;
+    height: 100px;
+    font-family: 'Inconsolata', monospace;
+
+  }
+  p{
+   
+    font-family: 'Inconsolata', monospace;
+
+  }
